@@ -1,0 +1,11 @@
+{
+  "name": "Empty Scene",
+  "levels": [
+    {
+      "name": "map",
+      "entities": [
+        // ... Your entities here
+      ]
+    }
+  ]
+}
